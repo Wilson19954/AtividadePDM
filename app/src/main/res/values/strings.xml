@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Atividadepdm</string>
+    <string-array name="spGenero">
+        <item>Ação e aventura.</item>
+        <item>Drama</item>
+        <item>Comédia romântica</item>
+        <item>Ficção científica</item>
+        <item>Terror</item>
+    </string-array>
+
+    <string name="avisoOk">Dados enviados com sucesso!</string>
+    <string name="avisoErro">Não foi possível completar a solicitação</string>
+    <string name="avisoAcessoOk">Login efetuado com sucesso!</string>
+    <string name="avisoAcessoErro">E-mail ou senha incorretos</string>
+    <string name="removerOk">Usuário removido!</string>
+
+    <string name="txtTituloAlert">Deseja mesmo apagar?</string>
+    <string name="txtApagarSim">Sim</string>
+    <string name="txtApagarNao">Cancelar</string>
+</resources>
